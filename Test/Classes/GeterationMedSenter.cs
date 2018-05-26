@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test.Classes
+namespace MedOrg.Classes
 {
     public enum Organisation { OnClinic, CIM, HAK, Sunkar, Rakhat, InterTeach, DostarMed }
     public enum Address { AbayAve, MarkovStreet, GagarinStreet, ZhandosovStreet, MustafinStreet, NazarbayevAve, DostykStreet}

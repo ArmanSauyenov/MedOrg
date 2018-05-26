@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Test.Classes
+namespace MedOrg.Classes
 {
     /*4.	Запросы на прикрепление (Дата создания, Дата обработки, Пациент, статус запроса)*/
     public class AttachmentRequests 

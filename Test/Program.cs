@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Test.Classes;
-using Test.Interfaces;
+using MedOrg.Classes;
+using MedOrg.Interfaces;
 
-namespace Test
+namespace MedOrg
 {
     class Program
     {

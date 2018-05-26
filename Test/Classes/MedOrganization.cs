@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Test.Interfaces;
+using MedOrg.Interfaces;
 
-namespace Test.Classes
+namespace MedOrg.Classes
 {
     /*2.	Мед Организация (Наименование, Адрес, Телефон)*/
     public class MedOrganization

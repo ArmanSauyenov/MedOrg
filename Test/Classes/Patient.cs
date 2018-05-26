@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Test.Classes;
+using MedOrg.Classes;
 
-namespace Test.Interfaces
+namespace MedOrg.Interfaces
 {
     /*1.	Пациент (Фамилия, Имя, Отчество, ИИН)*/
     public class Patient
